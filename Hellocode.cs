@@ -2,7 +2,7 @@ using System;
 
 namespace CSharpSolutions
 {
-    class HiCode
+    class Hello Code
     {
          static void Main(string[] args)
         {
